@@ -1,5 +1,7 @@
 # SALURBAL Cafe [Insert your restaurante name here]
 
+- [Workshop setup](https://drexel-climate.notion.site/Panama-City-Reproducibility-workshop-Setup-35e57008e885802f9674d2018978c30c?pvs=73)
+
 ## Setup 
 
 - [ ] Login into your github account
